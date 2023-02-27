@@ -42,5 +42,12 @@ C:\Users\u407598\gitcommands>git commit -m "added version.txt"
 
 C:\Users\u407598\gitcommands>git push
 
+############################################
+
+If you create the branch directly in git, you need to clone again, delete the .git folder and start again
+C:\Users\u407598>git clone https://github.com/priyanathmaji/gitcommands.git
+
+
+
 
 
