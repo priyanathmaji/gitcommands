@@ -33,3 +33,12 @@ Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 
 
+############################################
+C:\Users\u407598\gitcommands>git add README.MD
+
+C:\Users\u407598\gitcommands>git add version.txt
+
+C:\Users\u407598\gitcommands>git commit -m "added version.txt" 
+
+
+
