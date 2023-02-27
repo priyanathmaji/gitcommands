@@ -40,5 +40,7 @@ C:\Users\u407598\gitcommands>git add version.txt
 
 C:\Users\u407598\gitcommands>git commit -m "added version.txt" 
 
+C:\Users\u407598\gitcommands>git push
+
 
 
